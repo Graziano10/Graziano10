@@ -86,13 +86,6 @@
 
 ###
 
-<h2 align="left">👨🏻‍💻 My report</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Graziano10/Graziano10/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Graziano10.Graziano10&left_color=darkgrey&right_color=green&left_text=Visitors"  />
