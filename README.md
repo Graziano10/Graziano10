@@ -83,19 +83,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 </div>
-
-###
-
-<h2 align="left">👨🏻‍💻 Project online:</h2>
-
-###
-
-<p align="left">Website PH: https://professionalph.com/<br><br>***Many of the repositories created are private. Contact email: grazianocorineodev@gmail.com</p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Graziano10.Graziano10&left_color=darkgrey&right_color=green&left_text=Visitors"  />
-</div>
-
-###
