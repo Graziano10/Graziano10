@@ -16,7 +16,7 @@
   <a href="https://github.com/Graziano10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-    <a href="https://vercel.com/Graziano10">
+    <a href="https://vercel.com">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
 </p>
