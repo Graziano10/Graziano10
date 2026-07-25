@@ -16,6 +16,9 @@
   <a href="https://github.com/Graziano10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+    <a href="https://vercel.com/Graziano10">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Graziano10&label=Profile%20views&style=flat-square&color=58A6FF" alt="Profile views" />
